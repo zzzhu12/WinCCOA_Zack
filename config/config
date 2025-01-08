@@ -6,6 +6,7 @@ useNGA = 1
 useSQLite = 1
 langs = "en_US.utf8"
 langs = "zh_CN.utf8"
+#change from git
 [ui]
 defaultFont = "Noto Sans"
 versionControl = "git"
